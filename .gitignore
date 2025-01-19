@@ -2,4 +2,4 @@
 .env
 /src/common/security/JWT/certs/
 /config.ini
-/venv/
+venv/
