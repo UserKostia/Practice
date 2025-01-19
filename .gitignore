@@ -1,3 +1,4 @@
 /.idea/
 .env
 /src/JWT/certs/
+/config.ini
