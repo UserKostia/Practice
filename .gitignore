@@ -2,4 +2,12 @@
 .env
 /src/common/security/JWT/certs/
 /config.ini
-venv/
+/venv/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Python cache directories
+**/__pycache__/
